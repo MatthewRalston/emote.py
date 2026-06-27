@@ -229,7 +229,7 @@ negative = {
         "Intimidated",
         "Imperiled",
         "Powerless",
-        "Out of control"
+        "Out of control",
         # Extras
         "Apathetic",
         "Bored",
